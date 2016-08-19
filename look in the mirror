@@ -1,0 +1,27 @@
+speed 10
+lt 90;fd 150; rt 90;fd 30
+lt 90; fd 50 
+rt 280;
+pen silver, 7
+lt 90,100;lt 90,80
+rt 79;fd 100;rt 90
+lt 180,80; fd 90
+lt 179,80; rt 90; fd 100
+rt 90;lt 205, 90
+jumpto 146,92
+dot crimson, 60
+jumpto 188,33
+dot darkorange, 60 
+jumpto 95,36
+dot skyblue, 60 
+jumpto 129,-23
+dot lightgreen, 60
+jumpto 50,71
+rt 120; rt 120,100
+jumpto -140,120;rt 145
+fd 55; rt 90; fd 33; lt 90
+fd 33; lt 90; fd 33; rt 90 
+fd 50;lt 90; fd 33; lt 90
+fd 50; rt 90; fd 33; lt 90 
+fd 33; lt 90;fd 33;rt 90;fd 55
+lt 90; fd 33

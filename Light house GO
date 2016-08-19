@@ -1,0 +1,13 @@
+speed 10 
+pen black, 2
+fd 60; label 'go' 
+rt 30
+fd 40
+rt 120 
+dot gold, 8
+dot gold, 30 
+fd 40
+rt 30 
+fd 60 
+rt 90
+fd 40 

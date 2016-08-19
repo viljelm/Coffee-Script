@@ -1,0 +1,11 @@
+speed 10
+dot yellow, 160
+rt 90; fd 25 ;lt 90
+fd 15 
+dot black, 20 
+lt 90;fd 50
+dot black,20 
+lt 90; fd 40
+pen black, 8
+lt 40
+lt 100,34

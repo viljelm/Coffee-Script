@@ -1,0 +1,25 @@
+speed 10 
+rt 90 
+dot black, 20 
+fd 30 
+dot black, 20
+fd 30 
+dot black, 20 
+fd 45 
+pen black,10
+fd 15
+pu()
+fd 20
+pd()
+fd 15
+pu()
+fd 20
+pd()
+fd 15
+pu()
+fd 30
+dot black, 20 
+fd 30 
+dot black, 20
+fd 30 
+dot black, 20 

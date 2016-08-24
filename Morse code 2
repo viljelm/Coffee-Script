@@ -1,0 +1,42 @@
+speed 100
+rt 90 
+dot black, 20 
+fd 30 
+pen black,10
+fd 25; pu();fd 20;pd();fd 25 
+pu(); fd 25; dot black, 20 
+fd 25; dot black, 20;fd 25
+dot black, 20; fd 20;pd(); fd 20 
+pu(); fd 20; dot black, 20; fd 25; dot black, 20 
+fd 20;pd(); fd 20 
+pu(); fd 20; dot black, 20; fd 25; dot black, 20 
+fd 25;rt 90; dot black, 20; fd 20;pd(); fd 20 
+pu(); fd 20; dot black, 20; fd 25; dot black, 20
+fd 25;dot black,20;fd 20
+pen black,10
+fd 15
+pu()
+fd 20
+pd()
+fd 15
+pu()
+fd 20
+pd()
+fd 15
+pu()
+fd 30
+rt 90; dot black, 20; fd 25; pd(); fd 20; pu(); fd 25 
+dot black, 20 ; fd 20; pu(); fd 10; pd(); fd 25; pu(); fd 20 
+dot black, 20; fd 25; dot black, 20; fd 25;pd(); fd 25; pu();
+fd 25; dot black, 20; fd 25; dot black, 20; fd 25; dot black, 20
+fd 25;dot black,20; fd 25; dot black, 20; fd 25; dot black, 20
+rt 90; fd 25; pd() ; fd 20; pu(); fd 25; pd(); fd 20; pu(); fd 20;pd(); fd 20
+pu(); fd 25; dot black, 20; fd 25; dot black, 20; lt 90; fd 20; pd(); fd 20
+pu(); fd 20; dot black, 20 ; fd 25; dot black, 20; fd 25; dot black, 20 
+fd 25; pd(); fd 25; pu(); fd 20 ; pd(); fd 25; pu(); fd 20; pd(); fd 25
+pu(); fd 20 ; pd(); fd 25; pu(); fd 20 ; pd(); fd 25; pu(); fd 20; pd(); fd 25
+pu(); fd 20; pd(); fd 25; pu(); fd 20; pd(); fd 25; rt 90; pu(); fd 25
+dot black, 20; pu(); fd 20; pd(); fd 25;pu(); fd 20; pd(); fd 25
+pu(); fd 20; pd(); fd 25; pu(); fd 20; pd(); fd 25; rt 90; pu();
+pu(); fd 20; pd(); fd 25; pu(); fd 20; pd(); fd 25; pu(); fd 25
+dot black, 20; fd 25; dot black, 20 ; fd 25; dot black, 20 

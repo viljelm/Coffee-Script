@@ -1,0 +1,47 @@
+speed 100
+pen black
+for [1..4]
+  fd 100
+  rt 90
+rt 45
+fd 50
+lt 45
+for [1..5]
+  fd 100
+  rt 90
+lt 225
+fd 50
+lt 135
+fd 100
+lt 45
+fd 50
+rt 135
+fd 100
+rt 45
+fd 60
+home() 
+
+jumpto -124, -99 
+for [1..4]
+  fd 300
+  rt 90
+rt 45
+fd 150
+lt 45
+for [1..5]
+  fd 300
+  rt 90
+lt 225
+fd 150
+lt 135
+fd 300
+lt 45
+fd 150 
+rt 135
+fd 300
+rt 45
+fd 180
+# So what I did was when I was finished with making the first small cube, 
+# changed the placments of "fd" by mutiplying all of them by 3 
+# and moved the trutle so that it could be around the the smaller square.
+

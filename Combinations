@@ -1,0 +1,6 @@
+for outside in [skyblue,violet,pink]
+  for inside in [palegreen, orange,red] 
+   dot outside,21 
+   dot inside, 7
+   fd 25 
+   rt 36 

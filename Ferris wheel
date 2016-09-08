@@ -1,0 +1,26 @@
+speed(1000000); 
+pen(random,1); 
+for(var i = 0; i < 10; ++i)
+{
+  dot(blue,10);
+  for(var j = 0; j < 4; ++j) 
+{
+  fd (50);
+  rt(90);
+ }
+ lt(36);
+ bk(50);
+}
+
+
+
+/* The inner loops creates the shapes
+the ferris wheel*/ 
+  
+/* there are 10 blue dots */ 
+
+/* The outer loop */ 
+
+/* the program is being excuted 10 times */ 
+
+

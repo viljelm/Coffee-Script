@@ -1,0 +1,8 @@
+pen turquoise 
+for [1..10] 
+  dot blue 
+  for [1..4] 
+   fd 50 
+   rt 90 
+   lt 36 
+   bk 50 

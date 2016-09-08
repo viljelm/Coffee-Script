@@ -1,0 +1,6 @@
+pen blueviolet
+for [1..5]
+   rt 72;
+   for  [1..3]
+     fd 50
+     rt 120

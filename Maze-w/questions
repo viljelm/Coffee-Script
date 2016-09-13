@@ -1,0 +1,148 @@
+speed 100
+lt 70
+fd 320
+rt 90
+fd 50
+pen white, 10
+fd 220
+rt 90
+fd 630
+rt 180
+fd 500
+lt 90
+label 'What is my name black hat'
+fd 80
+rt 90
+fd 70
+rt 90
+fd 40
+rt 180
+fd 40
+lt 90
+fd 70+100
+lt 90
+fd 40
+lt 90
+fd 50
+rt 180
+fd 50
+rt 90
+fd 40
+rt 90
+fd 100
+rt 90
+fd 80
+rt 90
+fd 160
+rt 90
+fd 40
+lt 90
+fd 100
+rt 90
+fd 40
+rt 90
+label 'What is my GPA?' 
+fd 50
+pu()
+rt 180
+fd 100
+lt 90
+fd 80
+rt 180
+pen yellow, 10
+fd 150
+rt 90
+fd 80
+lt 90
+fd 80
+pu()
+lt 90 
+fd 150
+lt 90
+fd 230
+rt 180
+pen lightgreen, 10
+fd 50
+rt 180
+fd 50
+rt 90
+t = label 'What is my Major?' 
+t.grow 1
+fd 120
+rt 90
+fd 200
+pu()
+fd 100
+pen lightblue, 10
+rt 90
+fd 120
+rt 90
+fd 180
+rt 180
+fd 240
+rt 180
+fd 60
+rt 90
+fd 120
+rt 90
+fd 150
+rt 90
+fd 180
+rt 90
+fd 270
+lt 90
+fd 40
+lt 90
+label 'How tall am I?'
+fd 100
+rt 90
+fd 100
+rt 90
+fd 200
+rt 180
+fd 70
+rt 90
+fd 130
+lt 90
+fd 50
+rt 90
+fd 110
+rt 90
+fd 50
+rt 90
+fd 50
+rt 180
+fd 50
+lt 90
+fd 50
+lt 90
+fd 110
+label 'Who do I love?' 
+rt 90
+fd 90
+rt 90
+fd 120
+rt 180
+fd 180
+lt 90
+fd 80
+rt 180
+fd 240
+rt 90
+fd 240
+rt 90
+fd 180
+rt 90
+fd 100
+pu()
+rt 90
+fd 180
+lt 90
+pen black, 10
+fd 350
+
+#Q1. Viljelm
+#Q2. 4.0 
+#Q3. Software engineering 
+#Q4. 5'11
+#Q5. Obama a`q  

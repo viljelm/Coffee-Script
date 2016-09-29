@@ -1,0 +1,7 @@
+day = 'monday' 
+play 'c G/3/G/G/E/E/E/3/A/B/A/B/A/C/F/G/A/B z' 
+say "Goodmorning! It is time to wake up" 
+if day is 'monday' 
+  say 'you have to go to school today' 
+else 
+  say ' goodbye'

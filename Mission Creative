@@ -1,0 +1,39 @@
+a = new Turtle red 
+b = turtle 
+c = new Turtle green 
+for [1..20] 
+  (random [a,b,c]). fd 90
+  (random [a,b,c]). rt 90 
+  
+sync a, b, c 
+a.dot red,100 
+b.dot green,100 
+c.dot blue,100 
+
+play """ 
+  F ^G C' F' 
+  [=G'E] C' ^G 
+  =G' [^G'^D] C' 
+  ^G ^G' [=D'D]
+  ^A F D' 
+  [^C=C'] ^G F 
+  ^G21/3 C' ^ G F 
+  [=G^DG,][F,F^G] 
+  [^GFF,]2
+  """ 
+s = new Sprite 
+  color:gray 
+  height: 128 
+  width: 128 
+s.pen blue 
+s.rt 135 
+s.fd 200 
+
+w = new Webcam 
+w.rt 360 
+w.bk 250 
+
+w = new Webcam 
+button ' stop', => 
+  do w.cut 
+
